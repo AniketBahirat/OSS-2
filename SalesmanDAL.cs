@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using BOL;
 using MySql.Data.MySqlClient;
 
+using dal;
+
 namespace DAL
 {
 	//Connected Data Access
